@@ -1,36 +1,32 @@
-<h2 align="center">👋 Hello! I'm Athul.</h2>
+<h2 align="center">👋 Hello! I'm Adam Ehab.</h2>
 <p align="center">
-  <a href="https://blog.athulcyriac.in">Blog</a> •
-  <a href="https://twitter.com/athulcajay">Twitter</a>
+  <a href="[PASTE YOUR PORTFOLIO/BLOG LINK HERE]">Portfolio</a> •
+  <a href="[PASTE YOUR LINKEDIN PROFILE LINK HERE]">LinkedIn</a> •
+  <a href="[PASTE YOUR TWITTER PROFILE LINK HERE]">Twitter</a>
 </p>
 
 
-- 🔭 I’m currently working at [KnowBe4](https://knowbe4.com) as an SRE
-- 💬 Ask me about **Go, Git and Python**
-- 📫 How to reach me: [@athulcajay](https://twitter.com/athulcajay) on Twitter
-- ⚡ Fun fact: Big Fan of the :zap: emoji
+- 👨‍💻 I’m a **C++ Programmer** and a student at the Faculty of Engineering, Cairo University.
+- 🌱 I’m currently learning about **[Mention a technology you are learning, e.g., Advanced Algorithms, Game Development]**.
+- 💬 Ask me about **C++, Object-Oriented Programming, and Data Structures**.
+- 📫 How to reach me: **[Add your email or preferred contact method]**
+- ⚡ Fun fact: [Add a fun fact about yourself here!]
+
+-------
+
+📊 **My GitHub Stats**
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=YourUsername&show_icons=true&theme=radical" alt="Adam's GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YourUsername&layout=compact&theme=radical" alt="Top Languages" />
+</p>
 
 -------
 
 **📝 Latest Blog Posts**
 
-<!-- BLOG-POST-LIST:START -->
-- [Hacking with Knives and Spoons](https://blog.athulcyriac.in/blog/cooking/)
-- [Yearly Review 2024](https://blog.athulcyriac.in/blog/2024/)
-- [Python + Nix Flakes + Containers](https://blog.athulcyriac.in/blog/docker-nix-python/)
-- [Yearly Review 2023](https://blog.athulcyriac.in/blog/2023/)
-- [For Abraham, forever ago](https://blog.athulcyriac.in/blog/abraham/)
-<!-- BLOG-POST-LIST:END -->
-
 -------
 
-📊 **Weekly development breakdown**
-<!--START_SECTION:waka-->
-
+📊 **Weekly Development Breakdown**
 ```txt
-No activity tracked
-```
-
-<!--END_SECTION:waka-->
-
--------
+No activity tracked yet.
