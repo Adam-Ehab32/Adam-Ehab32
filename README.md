@@ -1,6 +1,6 @@
 <h2 align="center">👋 Hello! I'm Adam Ehab.</h2>
 <p align="center">
-  <a href="[https://adam-ehab32.github.io/My_portfolio]">Portfolio</a> •
+  <a href="https://adam-ehab32.github.io/My_portfolio">Portfolio</a> •
   <a href="[linkedin.com/in/adam-ehab-b0549b215]">LinkedIn</a> •
  
 </p>
